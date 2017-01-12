@@ -18,9 +18,7 @@
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-[线性代数](http://open.163.com/special/opencourse/daishu.html)| MIT | [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) |  [链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/)
 [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |  MIT | [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)  | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) 
-[多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  MIT | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 [计算机科学数学](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | MIT | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 [统计入门](http://open.163.com/movie/2011/6/6/0/M82IC6GQU_M83J9IK60.html) | 可汗学院 | 暂无 | 暂无
 概率论入门: [链接1](http://mooc.guokr.com/course/461/%E6%A9%9F%E7%8E%87/),[链接2](https://www.youtube.com/watch?v=GwSEguqJj6U&index=1&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)| NTU | 暂无 | 暂无
@@ -61,8 +59,6 @@ C++程序设计补充学习资料 | 暂无 | 暂无 | [链接](http://www.learnc
 操作系统 | Columbia | [Linux Kernel Development (3rd Edition)](https://docs.google.com/file/d/0B1iyZaHiAMfFZE9aXzNBOXR0OGM/edit?pli=1) | [链接](https://www.cs.columbia.edu/~nieh/teaching/w4118/) 
 [加密简介](https://www.coursera.org/learn/crypto) | Stanford | [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) | [链接](http://crypto.stanford.edu/~dabo/cs255/syllabus.html)
 - 其他(尚未完善)
-
- 
 
 ###<h3 id="cssecurity_median">计算机安全学习中级</h3>
    下面是计算机安全的一些较难的课程，也是前面基础课程的拓展，但对于后续的学习有着极大的帮助，希望对大家好好努力。
