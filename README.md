@@ -10,7 +10,7 @@
  - [计算机安全学习初级](#cssecurity_basic)
  - [计算机安全学习中级](#cssecurity_median)
  
-- [自然语言处理专项领域学习](#special_learning)
+- [计算机安全专项领域学习](#special_learning)
 
 ##<h2 id="preparation">前言</h2>
    我们要求把这些课程的所有Notes,Slides以及作者强烈推荐的论文看懂看明白，并完成所有的老师布置的习题，而推荐的书籍是不做要求的，如果有些书籍是需要看完的，我们会进行额外的说明。
@@ -24,8 +24,7 @@
 [统计入门](http://open.163.com/movie/2011/6/6/0/M82IC6GQU_M83J9IK60.html) | 可汗学院 | 暂无 | 暂无
 概率论入门: [链接1](http://mooc.guokr.com/course/461/%E6%A9%9F%E7%8E%87/),[链接2](https://www.youtube.com/watch?v=GwSEguqJj6U&index=1&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)| NTU | 暂无 | 暂无
 [C语言程序设计](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)| thenewboston | [The C Programming Language](https://www.amazon.com/dp/0131103628/?tag=stackoverfl08-20) |[链接](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
-[C++程序设计](https://www.youtube.com/watch?v=kMzH3tfP6f8&list=PL68B256C490A271B4) | Stanford | [Programming Abstractions in C++](https://www.amazon.com/Programming-Abstractions-C-Eric-Roberts-ebook/dp/B00XIGZU76) | [链接](https://web.stanford.edu/class/cs106b/)
-C++程序设计补充学习资料 | 暂无 | 暂无 | [链接](http://www.learncpp.com/)
+C语言程序设计资料补充 | Quora | 暂无 | [链接](http://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list/562362)
 [数据结构入门](https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)| mycodeschool | 暂无 |[链接]((https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P))
 [算法简介](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) | MIT | [Introduction to Algorithms](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20) |[链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 计算机系统基础 | Columbia | [Digital Design and Computer Architecture](https://www.uop.edu.jo/download/research/members/Digital_Design_and_Computer_Architecture.pdf) | [链接](http://www.cs.columbia.edu/~sedwards/classes/2011/3827-fall/)
@@ -50,10 +49,7 @@ C++程序设计补充学习资料 | 暂无 | 暂无 | [链接](http://www.learnc
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [C语言程序设计](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)| thenewboston | [The C Programming Language](https://www.amazon.com/dp/0131103628/?tag=stackoverfl08-20) |[链接](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
-[C++程序设计](https://www.youtube.com/watch?v=kMzH3tfP6f8&list=PL68B256C490A271B4) | Stanford | [Programming Abstractions in C++](https://www.amazon.com/Programming-Abstractions-C-Eric-Roberts-ebook/dp/B00XIGZU76) | [链接](https://web.stanford.edu/class/cs106b/)
-C++程序设计补充学习资料 | 暂无 | 暂无 | [链接](http://www.learncpp.com/)
-- 其他(尚未完善)
-
+C语言程序设计资料补充 | Quora | 暂无 | [链接](http://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list/562362)
 
 ###<h3 id="data_structure_and_alg">数据结构与算法设计</h3>
 
