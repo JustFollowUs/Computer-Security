@@ -6,6 +6,7 @@
 - [推荐学习路线](#learning_route)
  - [数学基础初级](#math_basic)
  - [程序语言能力](#programming_basic)  
+ - [数据结构与算法设计](#data_structure_and_alg)
  - [计算机安全学习初级](#cssecurity_basic)
  - [计算机安全学习中级](#cssecurity_median)
  
@@ -24,6 +25,8 @@
 概率论入门: [链接1](http://mooc.guokr.com/course/461/%E6%A9%9F%E7%8E%87/),[链接2](https://www.youtube.com/watch?v=GwSEguqJj6U&index=1&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)| NTU | 暂无 | 暂无
 [C++程序设计](https://www.youtube.com/watch?v=kMzH3tfP6f8&list=PL68B256C490A271B4) | Stanford | [Programming Abstractions in C++](https://www.amazon.com/Programming-Abstractions-C-Eric-Roberts-ebook/dp/B00XIGZU76) | [链接](https://web.stanford.edu/class/cs106b/)
 C++程序设计补充学习资料 | 暂无 | 暂无 | [链接](http://www.learncpp.com/)
+[数据结构入门](https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)| mycodeschool | 暂无 |[链接]((https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P))
+[算法简介](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) | MIT | [Introduction to Algorithms](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20) |[链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 计算机系统基础 | Columbia | [Digital Design and Computer Architecture](https://www.uop.edu.jo/download/research/members/Digital_Design_and_Computer_Architecture.pdf) | [链接](http://www.cs.columbia.edu/~sedwards/classes/2011/3827-fall/)
 操作系统 | Columbia | [Linux Kernel Development (3rd Edition)](https://docs.google.com/file/d/0B1iyZaHiAMfFZE9aXzNBOXR0OGM/edit?pli=1) | [链接](https://www.cs.columbia.edu/~nieh/teaching/w4118/) 
 [加密技术简介](https://www.coursera.org/learn/crypto) | Stanford | [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) | [链接](http://crypto.stanford.edu/~dabo/cs255/syllabus.html)
@@ -35,12 +38,11 @@ C++程序设计补充学习资料 | 暂无 | 暂无 | [链接](http://www.learnc
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |  MIT | [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)  | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) 
-[计算机科学数学](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | MIT | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 [统计入门](http://open.163.com/movie/2011/6/6/0/M82IC6GQU_M83J9IK60.html) | 可汗学院 | 暂无 | 暂无
 概率论入门: [链接1](http://mooc.guokr.com/course/461/%E6%A9%9F%E7%8E%87/),[链接2](https://www.youtube.com/watch?v=GwSEguqJj6U&index=1&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)| NTU | 暂无 | 暂无
+[计算机科学数学](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | MIT | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 
-
-###<h3 id="programming_basic">程序语言能力与算法设计</h3>
+###<h3 id="programming_basic">程序语言能力</h3>
 考虑到计算机安全处理必备是与程序设计离不开的同时程序语言能帮助大家较好的完成课后作业以及实现自己的一些idea，同时后续的课程需要拥有一定的程序设计能力才能完成，所以我们这边列出了大家认为比较好的学习资料方便大家学习参考学习。
 
 课程 | 机构 | 参考书 | Notes等其他资料
@@ -48,6 +50,13 @@ C++程序设计补充学习资料 | 暂无 | 暂无 | [链接](http://www.learnc
 [C++程序设计](https://www.youtube.com/watch?v=kMzH3tfP6f8&list=PL68B256C490A271B4) | Stanford | [Programming Abstractions in C++](https://www.amazon.com/Programming-Abstractions-C-Eric-Roberts-ebook/dp/B00XIGZU76) | [链接](https://web.stanford.edu/class/cs106b/)
 C++程序设计补充学习资料 | 暂无 | 暂无 | [链接](http://www.learncpp.com/)
 - 其他(尚未完善)
+
+
+###<h3 id="data_structure_and_alg">数据结构与算法设计</h3>
+
+课程 | 机构 | 参考书 | Notes等其他资料
+:-- | :--: | :--: | :--:
+[数据结构入门](https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)| mycodeschool | 暂无 |[链接]((https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P))
 [算法简介](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) | MIT | [Introduction to Algorithms](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20) |[链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
 ###<h3 id="cssecurity_basic">计算机安全学习初级</h3>
