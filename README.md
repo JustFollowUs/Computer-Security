@@ -21,47 +21,55 @@
 [线性代数](http://open.163.com/special/opencourse/daishu.html)| MIT | [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) |  [链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/)
 [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |  MIT | [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)  | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) 
 [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  MIT | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+[计算机科学数学](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | MIT | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 [统计入门](http://open.163.com/movie/2011/6/6/0/M82IC6GQU_M83J9IK60.html) | 可汗学院 | 暂无 | 暂无
 概率论入门: [链接1](http://mooc.guokr.com/course/461/%E6%A9%9F%E7%8E%87/),[链接2](https://www.youtube.com/watch?v=GwSEguqJj6U&index=1&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)| NTU | 暂无 | 暂无
-[概率与统计](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc)| MIT | [Introduction to Probability](https://www.amazon.com/exec/obidos/ASIN/188652923X/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/tutorials/)
+[C++程序设计](https://www.youtube.com/watch?v=kMzH3tfP6f8&list=PL68B256C490A271B4) | Stanford | [Programming Abstractions in C++](https://www.amazon.com/Programming-Abstractions-C-Eric-Roberts-ebook/dp/B00XIGZU76) | [链接](https://web.stanford.edu/class/cs106b/)
+C++程序设计补充学习资料 | 暂无 | 暂无 | [链接](http://www.learncpp.com/)
+计算机系统基础 | Columbia | [Digital Design and Computer Architecture](https://www.uop.edu.jo/download/research/members/Digital_Design_and_Computer_Architecture.pdf) | [链接](http://www.cs.columbia.edu/~sedwards/classes/2011/3827-fall/)
 操作系统 | Columbia | [Linux Kernel Development (3rd Edition)](https://docs.google.com/file/d/0B1iyZaHiAMfFZE9aXzNBOXR0OGM/edit?pli=1) | [链接](https://www.cs.columbia.edu/~nieh/teaching/w4118/) 
-
+[加密技术简介](https://www.coursera.org/learn/crypto) | Stanford | [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) | [链接](http://crypto.stanford.edu/~dabo/cs255/syllabus.html)
+计算机安全结构与工程 | Columbia | [The Craft of System Security](http://www.mypearsonstore.com/bookstore/craft-of-system-security-9780321434838) | [链接](https://www.cs.columbia.edu/~smb/classes/f16/)
 
 ##<h2 id="learning_route">推荐学习路线</h2>
 ###<h3 id="math_basic">数学基础初级</h3>
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-[线性代数](http://open.163.com/special/opencourse/daishu.html)| MIT | [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) |  [链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/)
 [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |  MIT | [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)  | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) 
-[多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  MIT | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+[计算机科学数学](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | MIT | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 [统计入门](http://open.163.com/movie/2011/6/6/0/M82IC6GQU_M83J9IK60.html) | 可汗学院 | 暂无 | 暂无
 概率论入门: [链接1](http://mooc.guokr.com/course/461/%E6%A9%9F%E7%8E%87/),[链接2](https://www.youtube.com/watch?v=GwSEguqJj6U&index=1&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)| NTU | 暂无 | 暂无
-[概率与统计](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc)| MIT | [Introduction to Probability](https://www.amazon.com/exec/obidos/ASIN/188652923X/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/tutorials/)
 
 
-###<h3 id="programming_basic">程序语言能力</h3>
-考虑到计算机安全处理必备是与程序设计离不开的同时程序语言能帮助大家较好的完成课后作业以及实现自己的一些idea，此处我们仅仅给出推荐的参考学习链接，，即完成参考学习链接部分的内容即可，推荐书籍比较经典，但不做要求。
+###<h3 id="programming_basic">程序语言能力与算法设计</h3>
+考虑到计算机安全处理必备是与程序设计离不开的同时程序语言能帮助大家较好的完成课后作业以及实现自己的一些idea，同时后续的课程需要拥有一定的程序设计能力才能完成，所以我们这边列出了大家认为比较好的学习资料方便大家学习参考学习。
 
+课程 | 机构 | 参考书 | Notes等其他资料
+:-- | :--: | :--: | :--:
+[C++程序设计](https://www.youtube.com/watch?v=kMzH3tfP6f8&list=PL68B256C490A271B4) | Stanford | [Programming Abstractions in C++](https://www.amazon.com/Programming-Abstractions-C-Eric-Roberts-ebook/dp/B00XIGZU76) | [链接](https://web.stanford.edu/class/cs106b/)
+C++程序设计补充学习资料 | 暂无 | 暂无 | [链接](http://www.learncpp.com/)
 - 其他(尚未完善)
-
-
- 
+[算法简介](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) | MIT | [Introduction to Algorithms](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20) |[链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
 ###<h3 id="cssecurity_basic">计算机安全学习初级</h3>
    下面这些课程可以较好的帮助大家计算机安全的知识，这里列的都是很好的入门课程。
-
+   
+课程 | 机构 | 参考书 | Notes等其他资料
+:-- | :--: | :--: | :--:
+计算机系统基础 | Columbia | [Digital Design and Computer Architecture](https://www.uop.edu.jo/download/research/members/Digital_Design_and_Computer_Architecture.pdf) | [链接](http://www.cs.columbia.edu/~sedwards/classes/2011/3827-fall/)
+操作系统 | Columbia | [Linux Kernel Development (3rd Edition)](https://docs.google.com/file/d/0B1iyZaHiAMfFZE9aXzNBOXR0OGM/edit?pli=1) | [链接](https://www.cs.columbia.edu/~nieh/teaching/w4118/) 
+[加密简介](https://www.coursera.org/learn/crypto) | Stanford | [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) | [链接](http://crypto.stanford.edu/~dabo/cs255/syllabus.html)
 - 其他(尚未完善)
 
-
-
-###<h3 id="math_ml_median">数学和机器学习知识补充</h3>
  
-- 其他(尚未完善)
 
 ###<h3 id="cssecurity_median">计算机安全学习中级</h3>
-   下面是计算机安全的一些较难的课程，但对于后续的科研或者学习有着极大的帮助，希望对大家有帮助。
- 
+   下面是计算机安全的一些较难的课程，也是前面基础课程的拓展，但对于后续的学习有着极大的帮助，希望对大家好好努力。
+
+课程 | 机构 | 参考书 | Notes等其他资料
+:-- | :--: | :--: | :--:  
+计算机安全结构与工程 | Columbia | [The Craft of System Security](http://www.mypearsonstore.com/bookstore/craft-of-system-security-9780321434838) | [链接](https://www.cs.columbia.edu/~smb/classes/f16/)
  
 - 其他(尚未完善)
 
