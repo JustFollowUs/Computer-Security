@@ -7,8 +7,7 @@
  - [数学基础初级](#math_basic)
  - [程序语言能力](#programming_basic)  
  - [数据结构与算法设计](#data_structure_and_alg)
- - [计算机安全学习初级](#cssecurity_basic)
- - [计算机安全学习中级](#cssecurity_median)
+ - [计算机安全学习](#cssecurity)
  
 - [计算机安全专项领域学习](#special_learning)
 
@@ -29,10 +28,11 @@ C语言程序设计资料补充 | Quora | 暂无 | [链接](http://stackoverflow
 [算法简介](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) | MIT | [Introduction to Algorithms](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20) |[链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 计算机系统基础 | Columbia | [Digital Design and Computer Architecture](https://www.uop.edu.jo/download/research/members/Digital_Design_and_Computer_Architecture.pdf) | [链接](http://www.cs.columbia.edu/~sedwards/classes/2011/3827-fall/)
 操作系统1 | Columbia | [Linux Kernel Development (3rd Edition)](https://docs.google.com/file/d/0B1iyZaHiAMfFZE9aXzNBOXR0OGM/edit?pli=1) | [链接](https://www.cs.columbia.edu/~nieh/teaching/w4118/) 
-[计算机网络基础介绍](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Stanford | [Computer Networking: A Top-Down Approach Featuring the Internet](https://www.amazon.com/Computer-Networking-Top-Down-Approach-6th/dp/0132856204) | [链接](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
-[加密技术简介](https://www.coursera.org/learn/crypto) | Stanford | [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) | [链接](http://crypto.stanford.edu/~dabo/cs255/syllabus.html)
-计算机安全结构与工程 | Columbia | [The Craft of System Security](http://www.mypearsonstore.com/bookstore/craft-of-system-security-9780321434838) | [链接](https://www.cs.columbia.edu/~smb/classes/f16/)
 操作系统2 | Columbia | 暂无 | [链接](https://www.cs.columbia.edu/~nieh/teaching/e6118/lectures/#papers)
+计算机安全结构与工程 | Columbia | [The Craft of System Security](http://www.mypearsonstore.com/bookstore/craft-of-system-security-9780321434838) | [链接](https://www.cs.columbia.edu/~smb/classes/f16/)
+[加密技术简介](https://www.coursera.org/learn/crypto) | Stanford | [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) | [链接](http://crypto.stanford.edu/~dabo/cs255/syllabus.html)
+高级加密技术 | Columbia | [The Foundations of Cryptography](http://www.wisdom.weizmann.ac.il/~oded/foc-book.html) | [链接](http://www.cs.columbia.edu/~tal/6261/SP16/)
+[计算机网络基础介绍](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Stanford | [Computer Networking: A Top-Down Approach Featuring the Internet](https://www.amazon.com/Computer-Networking-Top-Down-Approach-6th/dp/0132856204) | [链接](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 网络安全 | Columbia | [Network Security: Private Communication in a Public World, Second Edition](https://www.amazon.com/Network-Security-Private-Communication-Public/dp/0130460192) | [链接](https://www.cs.columbia.edu/~smb/classes/f06/#resources)
 
 ##<h2 id="learning_route">推荐学习路线</h2>
@@ -57,13 +57,23 @@ C语言程序设计资料补充 | Quora | 暂无 | [链接](http://stackoverflow
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-[数据结构入门](https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)| mycodeschool | 暂无 |[链接]((https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P))
+[数据结构入门](https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)| mycodeschool | 暂无 |[链接](https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+[理论计算机科学入门](https://cn.udacity.com/course/intro-to-theoretical-computer-science--cs313) | Uda | 暂无 | [链接](https://cn.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 [算法简介](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) | MIT | [Introduction to Algorithms](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20) |[链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
-###<h3 id="cssecurity_basic">计算机安全学习初级</h3>
-   下面这些课程可以帮助大家计算机安全的知识的一些先修课程，这里列的都是很可以为大家后续学习铺平道路。
+###<h3 id="cssecurity">计算机安全学习</h3>
+   下面这些课程划分了一些模块，不同的模块涉及计算机安全不同方面的知识，学习模块的基础知识能帮助大家获得较为广的知识面，当然大家也可以根据自己的兴趣爱好选择性的学习，学习自己感兴趣的方面即可。
 
-- 计算机系统与结构部分
+
+- 计算机加密技术模块
+
+课程 | 机构 | 参考书 | Notes等其他资料
+:-- | :--: | :--: | :--:  
+[加密简介](https://www.coursera.org/learn/crypto) | Stanford | [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) | [链接](http://crypto.stanford.edu/~dabo/cs255/syllabus.html)
+高级加密技术 | Columbia | [The Foundations of Cryptography](http://www.wisdom.weizmann.ac.il/~oded/foc-book.html) | [链接](http://www.cs.columbia.edu/~tal/6261/SP16/)
+
+
+- 计算机系统与结构安全模块
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
@@ -71,11 +81,6 @@ C语言程序设计资料补充 | Quora | 暂无 | [链接](http://stackoverflow
 操作系统1 | Columbia | [Linux Kernel Development (3rd Edition)](https://docs.google.com/file/d/0B1iyZaHiAMfFZE9aXzNBOXR0OGM/edit?pli=1) | [链接](https://www.cs.columbia.edu/~nieh/teaching/w4118/) 
 计算机安全结构与工程 | Columbia | [The Craft of System Security](http://www.mypearsonstore.com/bookstore/craft-of-system-security-9780321434838) | [链接](https://www.cs.columbia.edu/~smb/classes/f16/)
 操作系统2 | Columbia | 暂无 | [链接](https://www.cs.columbia.edu/~nieh/teaching/e6118/lectures/#papers)
-
-- 其他(尚未完善)
-
-###<h3 id="cssecurity_median">计算机安全学习中级</h3>
-   下面是计算机安全的一些较难的课程，也是前面基础课程的拓展，但对于后续的学习有着极大的帮助，希望对大家好好努力。
 
 - 计算机网络安全部分
 
@@ -85,10 +90,6 @@ C语言程序设计资料补充 | Quora | 暂无 | [链接](http://stackoverflow
 网络安全 | Columbia | [Network Security: Private Communication in a Public World, Second Edition](https://www.amazon.com/Network-Security-Private-Communication-Public/dp/0130460192) | [链接](https://www.cs.columbia.edu/~smb/classes/f06/#resources)
 - 其他(尚未完善)
 
-- 计算机加密技术部分
-课程 | 机构 | 参考书 | Notes等其他资料
-:-- | :--: | :--: | :--:  
-[加密简介](https://www.coursera.org/learn/crypto) | Stanford | [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) | [链接](http://crypto.stanford.edu/~dabo/cs255/syllabus.html)
 
 ##<h3 id="special_learning">计算机安全专项领域学习</h3>
    如果您已经完成了上述的所有科目，恭喜您已经拥有了较为扎实的计算机安全基础了，已经是一名合格的计算机安全的成员了，可以较为顺利的进入下面某一专项领域进行较为深入研究,因为并不是所有的专项领域都有对应的课程或者书籍等学习资料，所以此处我们仅列举一些我们知道的专项领域的学习资料，当然这些领域不能涵盖所有，还有很多领域没有整理（希望大家一起完善），如果这些领域适合你，那就继续加油！如果不清楚，那么大家可以去下面列举的高级会议期刊上去寻找自己感兴趣的话题进行学习研究。
