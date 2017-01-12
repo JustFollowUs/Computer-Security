@@ -79,8 +79,8 @@ C语言程序设计资料补充 | Quora | 暂无 | [链接](http://stackoverflow
 :-- | :--: | :--: | :--:
 计算机系统基础 | Columbia | [Digital Design and Computer Architecture](https://www.uop.edu.jo/download/research/members/Digital_Design_and_Computer_Architecture.pdf) | [链接](http://www.cs.columbia.edu/~sedwards/classes/2011/3827-fall/)
 操作系统1 | Columbia | [Linux Kernel Development (3rd Edition)](https://docs.google.com/file/d/0B1iyZaHiAMfFZE9aXzNBOXR0OGM/edit?pli=1) | [链接](https://www.cs.columbia.edu/~nieh/teaching/w4118/) 
-计算机安全结构与工程 | Columbia | [The Craft of System Security](http://www.mypearsonstore.com/bookstore/craft-of-system-security-9780321434838) | [链接](https://www.cs.columbia.edu/~smb/classes/f16/)
 操作系统2 | Columbia | 暂无 | [链接](https://www.cs.columbia.edu/~nieh/teaching/e6118/lectures/#papers)
+计算机安全结构与工程 | Columbia | [The Craft of System Security](http://www.mypearsonstore.com/bookstore/craft-of-system-security-9780321434838) | [链接](https://www.cs.columbia.edu/~smb/classes/f16/)
 
 - 计算机网络安全部分
 
